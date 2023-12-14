@@ -1,1 +1,1 @@
-# financial-sentiment-analysis
+# Financial Sentiment Analysis
